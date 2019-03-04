@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13bd51de-c498-4d67-b5f1-78f01602d028" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tony.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 2 - Neural Networks in PyTorch (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 2 - Neural Networks in PyTorch (Solution).ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 3 - Training Neural Networks (Solution).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/deep-learning-v2-pytorch/intro-to-pytorch/Part 3 - Training Neural Networks (Solution).ipynb" afterDir="false" />
@@ -76,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/docs/weekly-report.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="177">
-                <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-end-line="72" />
+              <first_editor relative-caret-position="60">
+                <caret line="71" column="16" selection-start-line="71" selection-end-line="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,8 +102,8 @@
         <entry file="file://$PROJECT_DIR$/docs/week2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,10 +169,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-48" />
-    <option name="y" value="226" />
-    <option name="width" value="1575" />
-    <option name="height" value="935" />
+    <option name="x" value="440" />
+    <option name="y" value="23" />
+    <option name="width" value="1212" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -189,6 +191,11 @@
             </path>
             <path>
               <item name="Pytorch_strach" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytorch_strach" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -203,7 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551391604238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551492943545" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.1484375" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -359,19 +366,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-48" y="226" width="1575" height="935" extended-state="0" />
+    <frame x="440" y="23" width="1212" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.15068494" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.2034188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.15068494" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49902153" visible="true" weight="0.26809016" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50097847" side_tool="true" visible="true" weight="0.26809016" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008104" side_tool="true" weight="0.15068494" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4982906" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4974359" visible="true" weight="0.30201343" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50256413" side_tool="true" visible="true" weight="0.30201343" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
@@ -542,6 +549,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meizi.py" />
+    <entry file="file://$PROJECT_DIR$/docs/images/week2/ResNet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/timeAndDateTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -589,8 +599,8 @@
     <entry file="file://$PROJECT_DIR$/docs/weekly-report.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="177">
-            <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-end-line="72" />
+          <first_editor relative-caret-position="60">
+            <caret line="71" column="16" selection-start-line="71" selection-end-line="72" />
           </first_editor>
           <second_editor />
         </state>
@@ -599,8 +609,8 @@
     <entry file="file://$PROJECT_DIR$/docs/week2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
