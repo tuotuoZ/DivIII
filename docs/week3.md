@@ -28,3 +28,6 @@ for layer in model.modules():
 I started to test my CNN skills on a image dataset called Intel Image
 Classification. My first attempt got 83% accuracy overall.
 ![first attempt](images/week3/first.png)
+
+However, the accuracy stopped incresing for my current layer setup. After trying a few more times,
+I started to look at the kernel from Kaggle.
