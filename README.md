@@ -4,4 +4,6 @@
 
 [Second week link 2019.Mar.3](docs/week2.md)
 
-[third week link 2019.Mar.10](docs/week3.md)
+[Third week link 2019.Mar.10](docs/week3.md)
+
+[Fourth week link 2019.Mar.24](docs/week4.md)
