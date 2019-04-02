@@ -25,3 +25,25 @@ This is the best I got so far. For the non-label predicting, it gives better dua
 ```bash
 ls -1 | wc -l
 ```
+
+### Notes from meeting
+
+confusion matrix
+
+random force they vote for each class.
+
+How many weights iniitialzaton
+
+variance, 
+
+
+CC Lee and Ethan for the meeting.
+
+
+try 10 see the difference and crosspondescy
+
+Linear space spam, 
+
+
+
+two brain, same pen, differnet activation, higher level info
